@@ -3,7 +3,7 @@
 Graduating to be a software engineer</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=erickmaiia&show_icons=true&theme=gotham"/>
+  <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=erickmaiaa&show_icons=true&theme=gotham"/>
  </div>
 
 ## My Skills
