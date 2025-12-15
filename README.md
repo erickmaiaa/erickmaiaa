@@ -1,13 +1,11 @@
-
-<p align="center">I ❤️ passionate to data and tech. <br><br>
+<p align="center">I ❤️ passionate to tech. <br><br>
 Graduating to be a software engineer</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+<div align="center">
   <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=erickmaiaa&show_icons=true&theme=gotham"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  </div>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+ 
 ## Contacts:
 <div>
   <a href="https://www.linkedin.com/in/erick-maia-8b3a22231/" target="_blank">
