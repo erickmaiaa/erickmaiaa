@@ -9,12 +9,6 @@
     src="https://github-readme-stats.vercel.app/api?username=erickmaiaa&show_icons=true&theme=gotham"
     alt="GitHub Stats"
   />
-  <img 
-    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-    width="400px"
-    align="right"
-    alt="Computer illustration"
-  />
 </div>
 
 ## 📫 Contacts
